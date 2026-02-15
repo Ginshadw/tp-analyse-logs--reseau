@@ -1,0 +1,15 @@
+===== RAPPORT D'ANALYSE DES LOGS RESEAU =====
+
+Nombre total de connexions : 84
+Nombre total de succes     : 59
+Nombre total d'echecs      : 25
+
+Top 3 des ports les plus utilises :
+ - Port 22 : 22 connexions
+ - Port 443 : 11 connexions
+ - Port 80 : 10 connexions
+
+Adresses IP suspectes :
+ - 192.168.1.10
+ - 192.168.1.40
+ - 192.168.1.20
